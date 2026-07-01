@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6m0035/v1
+canonical_location: https://kanripo.org/bkk/KR6m0035/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 三論遊意義
+  identifiers:
+    alt_id:
+    - T45n1855
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1855.xml
+    old_id: T45n1855
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6m0035_000.yaml, hash: 'sha256:07cfb7d53577755efdbb9aefd689462063842101dd776b15455fa05f41ef8484'}
+  - {seq: 1, filename: KR6m0035_001.yaml, hash: 'sha256:bc7f8c292a8260166d262594479e0897a784fb2bc52b8d9c46fe0af07e16d34b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6m0035_001.markers.yaml, hash: 'sha256:89245a927e9eca85ab43dff419163ae10897fbcddbb91527ee35590f270f76bd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6m0035_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9283
+  label: 三論遊意義
+  type: juan
+  level: 1
+hash: sha256:208e1725b8cb9a113d1c05b9abef26a4bb6f24a60b1c87157317c91045b9152f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

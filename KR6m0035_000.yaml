@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6m0035/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三論遊意義
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1855.xml
+    old_id: T45n1855
+hash: sha256:07cfb7d53577755efdbb9aefd689462063842101dd776b15455fa05f41ef8484
