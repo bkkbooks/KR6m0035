@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6m0035_000.yaml, hash: 'sha256:07cfb7d53577755efdbb9aefd689462063842101dd776b15455fa05f41ef8484'}
-  - {seq: 1, filename: KR6m0035_001.yaml, hash: 'sha256:bc7f8c292a8260166d262594479e0897a784fb2bc52b8d9c46fe0af07e16d34b'}
+  - {seq: 1, filename: KR6m0035_001.yaml, hash: 'sha256:116c4508b64118e41cb137a43c17d107146d3cc74f74334c65dbc64c05b37404'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6m0035_001.markers.yaml, hash: 'sha256:89245a927e9eca85ab43dff419163ae10897fbcddbb91527ee35590f270f76bd'}
+  - {seq: 0, role: markers, filename: assets/KR6m0035_000.markers.yaml, hash: 'sha256:392477c87ac4666d1ec90c8733e4655ea214b0744ba33ef4b6e7feb5f140dab1'}
+  - {seq: 1, role: markers, filename: assets/KR6m0035_001.markers.yaml, hash: 'sha256:57e2a067c28c1e2b562677ba5e3a0064daf0d560e3d24810c7b873a212603728'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 三論遊意義
   type: juan
   level: 1
-hash: sha256:208e1725b8cb9a113d1c05b9abef26a4bb6f24a60b1c87157317c91045b9152f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4137b0d889189db39095034781f1b54bbe3cb6d3dd508742bcf2aace00fc1f2f
